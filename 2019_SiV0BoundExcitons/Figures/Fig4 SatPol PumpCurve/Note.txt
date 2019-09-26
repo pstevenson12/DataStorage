@@ -1,0 +1,3 @@
+PumpC  for 856.4 and dark Echo all from 0828
+
+PumpC for 946.7 from 0812. no dark echo. assuming 4s pumping gives us 35%
